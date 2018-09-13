@@ -13,7 +13,7 @@ import java.io.IOException;
 public class XmlUtils {
     private static String realPath;
     static {
-    	realPath = "C:\\Users\\HerbertPu\\workspace\\MVCDemo\\src\\DB.xml";
+    	realPath = "C:\\Users\\HerbertPu\\git\\MVCDemo\\src\\DB.xml";
         //realPath = XmlUtils.class.getClassLoader().getResource("DB.xml").getPath();
         //System.out.println(realPath);
     }

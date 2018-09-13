@@ -42,6 +42,7 @@ public class UserDaoImpl implements IUserDao {
 
             return user;
         } catch (Exception e) {
+        	e.printStackTrace();
             throw new RuntimeException();
         }
     }
