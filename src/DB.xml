@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+  <user id="21ae6afe-9c13-4d55-90e3-9198b0b72531" userName="name" userPwd="123" email="123@qq.com" birthday="1998-01-01"/>  
+  <user id="e977a394-8792-4da5-922e-397f2b334dba" userName="nametwo" userPwd="123" email="123@qq.com" birthday="1998-01-01"/>
+</users>
